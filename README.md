@@ -15,6 +15,6 @@ The sample creates a queue named ```test_queue``` in your namespace, then genera
 ![screenshot](screenshot.png)
 
 ## Resources
-* SDK documentation: [https://docs.microsoft.com/en-us/python/api/azure-servicebus/azure.servicebus?view=azure-python(https://docs.microsoft.com/en-us/python/api/azure-servicebus/azure.servicebus?view=azure-python)
+* Python SDK documentation: [https://docs.microsoft.com/en-us/python/api/azure-servicebus/azure.servicebus?view=azure-python](https://docs.microsoft.com/en-us/python/api/azure-servicebus/azure.servicebus?view=azure-python)
 * More information about using the SDK's queue client (including async usage): [https://docs.microsoft.com/en-us/python/api/overview/azure/servicebus?view=azure-python](https://docs.microsoft.com/en-us/python/api/overview/azure/servicebus?view=azure-python)
 * Working with topics and subscriptions (not available in the Basic pricing tier): [https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-topics-subscriptions](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-topics-subscriptions)
