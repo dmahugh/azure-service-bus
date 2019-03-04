@@ -33,7 +33,7 @@ def main():
 
     # create a list of random messages
     fake = Faker()
-    test_messages = [f"{fake.name()}, {fake.state()}" for _ in range(10)]
+    test_messages = [f"{fake.name()} - {fake.city()}, {fake.state()}" for _ in range(10)]
 
     # create a queue client
     queue_client = get_queue_client("test_queue")
